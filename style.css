@@ -1,0 +1,17 @@
+body{
+    background-color: lime;
+    align-content: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-color: black;
+    font-size: large;
+    align-content: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-color:black;
+    font-size: medium;
+}
